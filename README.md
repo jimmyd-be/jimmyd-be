@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a full stack developer from Belgium.
-Specialized in Full stack java angular/react applications hosted on AWS.
+I'm a full stack developer from Belgium.  
+Certified in Java, c++ and AWS.
 
 _________________
 
